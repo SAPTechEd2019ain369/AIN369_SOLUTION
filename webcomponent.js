@@ -53,6 +53,12 @@
                 this._widgetWidth = this._widgetHeight;
             }
 
+            //Adding event handler for click events
+			this.addEventListener("click", event => {
+				var event = new Event("onClick");
+				this.dispatchEvent(event);
+			});
+
             this.redraw();
         };
 
@@ -131,12 +137,6 @@
                 .attr("stroke", this._ringColorCode)
                 .attr("stroke-width", this._bracketThickness)
                 .attr("fill", "none");	
-
-            //Adding event handler for click events
-			this.addEventListener("click", event => {
-				var event = new Event("onClick");
-				this.dispatchEvent(event);
-			});
 	
         };
 
