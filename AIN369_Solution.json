@@ -11,7 +11,7 @@
 	"webcomponents": [
 		{
 			"kind": "main",
-			"tag": "com-sap-teched-gauge-solution-exe3",
+			"tag": "com-sap-teched-gauge-solution",
             "url": "https://sapteched2019ain369.github.io/AIN369_SOLUTION/webcomponent.js",
 			"properties": [
 				"angleMax"
@@ -21,7 +21,7 @@
 		},
 		{
 			"kind": "styling",
-			"tag": "com-sap-teched-gauge-solution-exe3-aps",
+			"tag": "com-sap-teched-gauge-solution-aps",
             "url": "https://sapteched2019ain369.github.io/AIN369_SOLUTION/aps_webcomponent.js",
 			"properties": [
 			],
