@@ -12,7 +12,6 @@
 		{
 			"kind": "main",
 			"tag": "com-sap-teched-gauge-solution-exe5",
-			"urls": "https://sapteched2019ain369.github.io/AIN368_SOLUTION_EX5/webcomponent.js",
 			"url": "https://sapteched2019ain369.github.io/AIN369_SOLUTION/TechEd/webcomponent.js",
             "integrity": "",
             "ignoreIntegrity" : true
