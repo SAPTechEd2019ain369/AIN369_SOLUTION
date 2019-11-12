@@ -48,7 +48,7 @@
             this._startAngleDeg = -145.0;
             
             //Guide Lines
-            this._ringColorCode = 'black';
+            this._ringColorCode = '#007cc0';
             this._guideOpacity = 0.75;
             this._ringThickness = 5;
             this._bracketThickness = 5;
