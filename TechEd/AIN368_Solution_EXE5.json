@@ -12,14 +12,15 @@
 		{
 			"kind": "main",
 			"tag": "com-sap-teched-gauge-solution-exe5",
-            "url": "https://sapteched2019ain369.github.io/AIN368_SOLUTION_EX5/webcomponent.js",
+			"urls": "https://sapteched2019ain369.github.io/AIN368_SOLUTION_EX5/webcomponent.js",
+			"url": "https://sapteched2019ain369.github.io/AIN369_SOLUTION/TechEd/webcomponent.js",
             "integrity": "",
             "ignoreIntegrity" : true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-sap-teched-gauge-solution-exe5-aps",
-            "url": "https://sapteched2019ain369.github.io/AIN368_SOLUTION_EX5/aps_webcomponent.js",
+            "url": "https://sapteched2019ain369.github.io/AIN369_SOLUTION/TechEd/aps_webcomponent.js",
 			"integrity": "",
             "ignoreIntegrity" : true
 		}
